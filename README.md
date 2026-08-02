@@ -61,6 +61,9 @@ This project uses inheritance and abstraction:
 
 The project uses information from theSportsDB website to retrieve a description of a professional tennis player.
 
+Rodgers , Aaron. “Welcome to TheSportsDB.Com.” TheSportsDB.Com- Free Sports API
+Database with High Quality Artwork and Metadata, 2013, www.thesportsdb.com/.
+
 ## Authors
 
 * Jade Brungart
